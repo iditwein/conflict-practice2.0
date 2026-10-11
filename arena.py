@@ -5,6 +5,8 @@ ROSTER = [
     {"name": "Python Sensei", "hp": 100, "attack": (5, 20), "phrase": "Where are your PRs?!"},
     {"name": "Cyborg Bob", "hp": 110, "attack": (5, 10), "phrase": "Beep boop!"},
     {"name": "Deadline Student", "hp": 80, "attack": (10, 40), "phrase": "It works on my machine!"},
+    {"name": "F*** Fighter", "hp": 120, "attack": (10, 40), "phrase": "If you have to shoot.. SHOOT!"},
+    
     # --- ADD HERE ---
 ]
 
